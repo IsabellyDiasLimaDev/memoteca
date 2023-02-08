@@ -1,0 +1,70 @@
+{
+  "pensamentos": [
+    {
+      "id": 3,
+      "conteudo": "Tenho que terminar este curso hoje 08/02",
+      "autoria": "Isa",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 4,
+      "conteudo": "Quero ser fullstack",
+      "autoria": "Isa",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 5,
+      "conteudo": "O decorador @Injectable informa ao Angular que essa classe é injetável e com o metadado providedIn como root torna esse serviço visível em toda aplicação.",
+      "autoria": "Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 6,
+      "conteudo": "O Objetivo de um serviço é organizar e compartilhar regras de negócios, dados e métodos para diferentes componentes de uma aplicação por meio da injeção de dependência.",
+      "autoria": "Alura",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 7,
+      "conteudo": "Testando edicao de pensamento na api",
+      "autoria": "Isinha Dev",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 8,
+      "conteudo": "Um Observable pode ser acessado em várias partes da aplicação, basta se inscrever.",
+      "autoria": "Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 9,
+      "conteudo": "Ao fazer requisições o HttpClient retorna observable da chamada desses métodos. O Observable é utilizado internamente pelo framework e já é instalado quando você cria uma nova aplicação Angular e é uma funcionalidade da biblioteca RXJS.",
+      "autoria": "Alura",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 10,
+      "conteudo": "O Observable atua como observador de um item e sempre que houver mudança ele emite uma notificação, com isso executamos alguma ação. Ou seja ele atua de forma assincrona",
+      "autoria": "Dev Alura",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 11,
+      "conteudo": "O método GET deve receber como parâmetro a URL da API.",
+      "autoria": "Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 12,
+      "conteudo": "O HttpClient retorna Observable das chamadas de métodos HTTP, o que facilita na implementação de regras em caso de sucesso, erro e conclusão da requisição. HttpClient é uma classe que possui envia requisições HTTP e permite interagir com os suas diferentes possibilidades de resultados.",
+      "autoria": "Alura Dev",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 13,
+      "conteudo": "O importante é o que importa",
+      "autoria": "Autor Desconhecido",
+      "modelo": "modelo1"
+    }
+  ]
+}
