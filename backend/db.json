@@ -65,6 +65,24 @@
       "conteudo": "O importante é o que importa",
       "autoria": "Autor Desconhecido",
       "modelo": "modelo1"
+    },
+    {
+      "id": 14,
+      "conteudo": "Criacao de formularios reativos - forma 1: ngOnInit(): void {     this.formulario = new FormGroup({       conteudo: new FormControl(''),       autoria: new FormControl(''),       modelo: new FormControl('')     })   }",
+      "autoria": "Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 15,
+      "conteudo": "segunda forma criacao forms reativos: ngOnInit(): void {     this.formulario = this.formBuilder.group({       conteudo: [''],       autoria: [''],       modelo: ['']     })   }",
+      "autoria": "Alura",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Na tag <form> do html, é necessário fazer um property binding por meio da diretiva formGroup e atribuir a ela o valor da propriedade formulario, criada na classe typescript. Além disso, é necessário incluir em cada input a propriedade formControlName, com o nome declarado na classe.  <form [formGroup]=\"formulario\">  formControlName=\"conteudo\"  formControlName=\"autoria\"  formControlName=\"modelo\"",
+      "autoria": "Alura",
+      "modelo": "modelo1",
+      "id": 17
     }
   ]
 }
