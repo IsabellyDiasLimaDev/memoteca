@@ -3,7 +3,7 @@
     {
       "id": 3,
       "conteudo": "Tenho que terminar este curso hoje 08/02",
-      "autoria": "Isa",
+      "autoria": "isa",
       "modelo": "modelo3"
     },
     {
@@ -39,7 +39,7 @@
     {
       "id": 9,
       "conteudo": "Ao fazer requisições o HttpClient retorna observable da chamada desses métodos. O Observable é utilizado internamente pelo framework e já é instalado quando você cria uma nova aplicação Angular e é uma funcionalidade da biblioteca RXJS.",
-      "autoria": "Alura",
+      "autoria": "alura",
       "modelo": "modelo3"
     },
     {
@@ -83,6 +83,18 @@
       "autoria": "Alura",
       "modelo": "modelo1",
       "id": 17
+    },
+    {
+      "conteudo": "https://angular.io/api/forms/Validators#description",
+      "autoria": "Form Validation angular",
+      "modelo": "modelo2",
+      "id": 18
+    },
+    {
+      "id": 19,
+      "conteudo": "Que a força esteja com você",
+      "autoria": "Mestre Yoda!",
+      "modelo": "modelo3"
     }
   ]
 }
